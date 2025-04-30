@@ -296,7 +296,7 @@
       </header>
 
       <!-- নিউজ অংশ -->
-      <h1><br><br><br>News & Events</h1>
+      <h1>News & Events</h1>
       <p>Stay updated with X-TOVA's latest news and events.</p>
 
       <!--<p>&nbsp;</p><div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" height="274" src="https://www.youtube.com/embed/zT3l1lT-_Wk" width="351" youtube-src-id="zT3l1lT-_Wk"></iframe></div><br /><p></p>-->
@@ -412,7 +412,7 @@
 
       <!-- নিউজ অংশ -->
       <h1>News & Events</h1>
-      <p>Stay updated with X-TOVA's latest news and events.</p>
+      <p>Stay updated with ZUNOVA's latest news and events.</p>
     </div>
   
     <!-- solarsystem page    -->
@@ -431,7 +431,7 @@
 
       <!-- নিউজ অংশ -->
       <h1>News & Events</h1>
-      <p>Stay updated with X-TOVA's latest news and events.</p>
+      <p>Stay updated with ZUNOVA's latest news and events.</p>
       
       
     </div>
@@ -467,7 +467,7 @@
 
       <!-- নিউজ অংশ -->
       <h1>News & Events</h1>
-      <p>Stay updated with X-TOVA's latest news and events.</p>
+      <p>Stay updated with ZUNOVA's latest news and events.</p>
     </div>
     
     <!-- New & Events page    -->
@@ -484,7 +484,7 @@
 
       <!-- নিউজ অংশ -->
       <h1>News & Events</h1>
-      <p>Stay updated with X-TOVA's latest news and events.</p>
+      <p>Stay updated with ZUNOVA's latest news and events.</p>
     </div>
     
     <!-- New & Events page    -->
@@ -495,7 +495,7 @@
         <div class="overlay"></div>
         <div class="header-content">
           <h1>About X-TOVA</h1>
-          <p>X-TOVA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.</p>
+          <p>ZUNOVA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.</p>
         </div>
       </header>
 
