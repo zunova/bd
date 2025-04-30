@@ -1,7 +1,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>X-TOVA</title>
+  <title>ZUNOVA</title>
   <!--  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Bengali&display=swap" rel="stylesheet">-->
   <!-- CSS স্টাইল শুরু -->
   <style>
@@ -257,7 +257,7 @@
     </div>
     <!-- লোগো -->
     <div class="logo">
-      <img  src="https://i.postimg.cc/28KZMNyW/20250424-223807.png" alt="X-TOVA Logo" >
+      <img  src="https://i.postimg.cc/28KZMNyW/20250424-223807.png" alt="ZUNOVA Logo" >
     </div>
   </div>
 
@@ -271,7 +271,7 @@
     <a href="#" onclick="showPage('earth')">Earth</a>-->
      <a href="#" onclick="showPage('universe')">The Universe</a>
     <!--<a href="#" onclick="showPage('technology')">Technology</a>-->
-    <a href="#" onclick="showPage('about')">About X-TOVA</a>
+    <a href="#" onclick="showPage('about')">About ZUNOVA</a>
    <!-- <a href="#" onclick="showPage('about')">About</a> -->
   </div>
 
