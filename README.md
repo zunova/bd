@@ -507,9 +507,9 @@ discovary.</p>
     
     <!-- ফুটার -->
     <footer>
-      <div><img src="https://i.postimg.cc/28KZMNyW/20250424-223807.png" alt="X-TOVA Logo" style="height: 50px;"></div>
-      <h1>X-TOVA</h1>
-      <p>X-TOVA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.<br><br><br></p>
+      <div><img src="https://i.postimg.cc/28KZMNyW/20250424-223807.png" alt="ZUNOVA Logo" style="height: 50px;"></div>
+      <h1>ZUNOVA</h1>
+      <p>ZUNOVA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.<br><br><br></p>
     
      <p>All Pages</p>
       <div class="footer-links">
