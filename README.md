@@ -256,10 +256,10 @@
       <span></span><span></span><span></span>
     </div>
     <!-- লোগো -->
-    <div class="logo">
+   <!-- <div class="logo">
       <img  src="https://i.postimg.cc/28KZMNyW/20250424-223807.png" alt="ZUNOVA Logo" >
     </div>
-  </div>
+  </div>-->
 
   <!-- সাইডবার -->
   <div class="sidebar" id="sidebar">
