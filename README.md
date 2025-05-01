@@ -86,7 +86,7 @@
     
   
   /* মূল কন্টেন্ট */
-    .content { padding-top: 70px; }
+    .content { padding-top: 0px; }
 
     /* প্রতিটি পেজ */
     .page { display: none; }
