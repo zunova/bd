@@ -1,7 +1,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>ZUNOVA</title>
+  <title>X-TOVA</title>
   <!--  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Bengali&display=swap" rel="stylesheet">-->
   <!-- CSS স্টাইল শুরু -->
   <style>
@@ -82,8 +82,6 @@
     .hamburger.open span:nth-child(1) { transform: rotate(45deg) translateY(9px); }
     .hamburger.open span:nth-child(2) { opacity: 0; }
     .hamburger.open span:nth-child(3) { transform: rotate(-45deg) translateY(-9px); }
-
-    
   
   /* মূল কন্টেন্ট */
     .content { padding-top: 0px; }
@@ -103,7 +101,6 @@
       justify-content: center;
       text-align: left;
       color: #fff;
-      background-color: #000;
     }
 
     .bg-image {
@@ -122,7 +119,9 @@
       left: 0;
       height: 100%;
       width: 100%;
-      background: rgba(0, 0, 0, 0.4);
+      background: rgba(0, 0, 0, 0);
+     /* background: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+     */
       z-index: 2;
     }
 
@@ -258,23 +257,22 @@
     </div>
     <!-- লোগো -->
     <div class="logo">
-      <img  src="https://i.postimg.cc/28KZMNyW/20250424-223807.png" alt="ZUNOVA Logo" >
+      <img  src="https://i.postimg.cc/28KZMNyW/20250424-223807.png" alt="X-TOVA Logo" >
     </div>
   </div>
 
   <!-- সাইডবার -->
   <div class="sidebar" id="sidebar">
     <!-- সাইডবারের লিংকসমূহ -->
-    <a href="#" onclick="showPage('home')">Home</a>
-    <!--<a href="#" onclick="showPage('news')">News & Events</a>-->
-    <a href="#" onclick="showPage('missions')">Missions</a>
-    <!-- <a href="#" onclick="showPage('solar-system')">Solar System</a>
-    <a href="#" onclick="showPage('earth')">Earth</a>-->
-     <a href="#" onclick="showPage('universe')">The Universe</a>
-    <!--<a href="#" onclick="showPage('technology')">Technology</a>-->
-    <a href="#" onclick="showPage('about')">About ZUNOVA</a>
-   <!-- <a href="#" onclick="showPage('about')">About</a> -->
-  </div>
+    <a href="https://zunova.github.io/bd/">Home</a>
+    <a href="https://zunova.github.io/bd/" onclick="showPage('news')">News & Events</a>
+    <a href="https://zunova.github.io/bd/">Missions</a>
+    <a href="https://zunova.github.io/bd/" onclick="showPage('solar-system')">Solar System</a>
+    <a href="https://zunova.github.io/bd/">Earth</a>
+     <a href="https://zunova.github.io/bd/">The Universe</a>
+    <a href="https://zunova.github.io/bd/">Technology</a>
+    <a href="https://zunova.github.io/bd/">About X-TOVA</a>
+    </div>
 
   <!-- ওভারলে ব্যাকড্রপ -->
   <div id="overlay"></div>
@@ -288,7 +286,7 @@
     <div id="home" class="page active">
       <!-- হিরো ব্যানার -->
       <header class="hero-header" style="aspect-ratio: auto; height: 100vh;">
-        <img src="ttps://media-hosting.imagekit.io/7a2e66f9938d438d/1000009881.jpg?Expires=1840348330&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=kMQX9TyNxcFviLRN1rs2N5-I91xg84CRR-Qlw4~LpEG1fVbRk390soriNq3pryLyZG5WsODtXQdtysRQI7ya0N697J2ccYfcwerWAyxMP3epf9ua94oX8R0vEbryU56C~GHw6w3TJKShmdiOu3AynbDf8ambW-yvrY2orQMrD0A6piIZcsp7GEdmW3XwvUG1qrRa3~yG-rI7CxSvsWbd93xS1~Qg-YKZj2AFmrgA9T5pMrSoyGyhhk1oI2OozmDE8z~TH2t4C5NUIR8dPv1gkaUkyB5TJl5sa71LrAVypSXtaAqhgxJHiA52v2zyVbnU6Vww1lICpzU~pOfadiSIyA__" class="bg-image">
+        <img src="https://media-hosting.imagekit.io/7a2e66f9938d438d/1000009881.jpg?Expires=1840348330&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=kMQX9TyNxcFviLRN1rs2N5-I91xg84CRR-Qlw4~LpEG1fVbRk390soriNq3pryLyZG5WsODtXQdtysRQI7ya0N697J2ccYfcwerWAyxMP3epf9ua94oX8R0vEbryU56C~GHw6w3TJKShmdiOu3AynbDf8ambW-yvrY2orQMrD0A6piIZcsp7GEdmW3XwvUG1qrRa3~yG-rI7CxSvsWbd93xS1~Qg-YKZj2AFmrgA9T5pMrSoyGyhhk1oI2OozmDE8z~TH2t4C5NUIR8dPv1gkaUkyB5TJl5sa71LrAVypSXtaAqhgxJHiA52v2zyVbnU6Vww1lICpzU~pOfadiSIyA__" class="bg-image">
         <div class="overlay"></div>
         <div class="header-content">
           <h1>X-TOVA</h1>
@@ -297,12 +295,12 @@
       </header>
 
       <!-- নিউজ অংশ -->
-      <h1><br><br><br>News & Events</h1>
+      <h1>News & Events</h1>
       <p>Stay updated with X-TOVA's latest news and events.</p>
 
       <!--<p>&nbsp;</p><div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" height="274" src="https://www.youtube.com/embed/zT3l1lT-_Wk" width="351" youtube-src-id="zT3l1lT-_Wk"></iframe></div><br /><p></p>-->
       
-      <!-- পোস্ট ১ -->
+      <!-- পোস্ট ১ 
       <section class="climate-post">
         <a href="#" class="climate-link" onclick="showPage('climate')">
           <img src="https://i.postimg.cc/vTzfK4jL/IMG-20250425-145649.jpg" class="climate-bg">
@@ -314,9 +312,9 @@
         </a>
       </section>
 
-      <!-- পোস্ট ২ -->
+      <!-- পোস্ট ২ 
       <section class="climate-post">
-        <a href="https://github.com/zunova/bd/blob/main/pip" class="climate-link" onclick="showPage('pop')">
+        <a href="#" class="climate-link" onclick="showPage('pop')">
           <img src="https://i.ibb.co/DPz5sVDS/73f436678910.jpg" class="climate-bg">
           <div class="climate-overlay"></div>
           <div class="climate-text">
@@ -324,30 +322,11 @@
             <p>NASA is a global leader in studying Earth’s changing climate.</p>
           </div>
         </a>
-      </section>
+      </section>-->
       
     </div>
     
-    
 
-    <!-- ক্লাইমেট পেজ -->
-    <div id="climate" class="page">
-      <header class="hero-header">
-        <img src="https://i.postimg.cc/vTzfK4jL/IMG-20250425-145649.jpg" class="bg-image">
-        <div class="overlay"></div>
-        <div class="header-content">
-          <h1>Climate Change</h1>
-          <p>Learn how NASA is monitoring Earth's changing climate through data and technology.</p>
-        </div>
-      </header>
-      <div style="padding: 20px; max-width: 800px; margin: auto;">
-        <p>NASA tracks rising temperatures, ice melt, and extreme weather using a network of satellites and ground-based systems.</p>
-        <p>Their data helps communities plan for climate impacts and raise global awareness about environmental responsibility.</p>
-      </div>
-    </div>
-
-
- 
 <!-- ফুটার -->
     <footer>
       <div><img src="https://i.postimg.cc/28KZMNyW/20250424-223807.png" alt="ZUNOVA Logo" style="height: 50px;"></div>
@@ -358,19 +337,22 @@
       <div class="footer-links">
         <div>
           <h2><a href="https://zunova.github.io/bd/" onclick="showPage('home')">Home</a></h2>
-          <h2><a href="#" onclick="showPage('news')">News & Events</a></h2>
-          <h2><a href="#" onclick="showPage('missions')">Missions</a></h2>
+          <h2><a
+
+href="https://zunova.github.io/news/events/" onclick="showPage('news')">News & Events</a></h2>
+          <h2><a href="https://zunova.github.io/missions/" onclick="showPage('missions')">Missions</a></h2>
+ <h2><a href="https://zunova.github.io/solarsystem/" onclick="showPage('missions')">Missions</a></h2>
         </div>
         <div>
-          <h2><a href="#" onclick="showPage('universe')">The Universe</a></h2>
-          <h2><a href="#" onclick="showPage('technology')">Technology</a></h2>
-          <h2><a href="#" onclick="showPage('about')">About</a></h2>
+ <h2><a href="https://zunova.github.io/earth/" onclick="showPage('missions')">Earth</a></h2>
+          <h2><a href="https://zunova.github.io/universe/" onclick="showPage('universe')">The Universe</a></h2>
+          <h2><a href="https://zunova.github.io/technology/" onclick="showPage('technology')">Technology</a></h2>
+          <h2><a href="https://zunova.github.io/about/" onclick="showPage('about')">About</a></h2>
         </div>
       </div>
 
     <br><br><br>
     <p>Join Us <span style="color: red;">➔</span></p>
-    
       <!-- সোশ্যাল আইকন -->
     <div class="social-icons">
   <a href="https://facebook.com/@ZUNOVAofficial" target="_blank"><img src="https://i.ibb.co/0Rn3cY0N/8fedea3b4ab9.png" alt="Facebook"></a>
@@ -382,7 +364,6 @@
 <a>© ZUNOVA</a>
 </footer>
 </div>
-
   <!-- জাভাস্ক্রিপ্ট শুরু -->
   <script>
     // হ্যামবার্গার ক্লিক করলে সাইডবার খুলবে/বন্ধ হবে
