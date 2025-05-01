@@ -17,7 +17,7 @@
     .topbar {
       display: flex;
       align-items: center;
-      padding: 20px;
+      padding: 18px;
       position: fixed;
       top: 0;
       left: 0;
