@@ -345,6 +345,26 @@
       </div>
     </div>
 
+
+ <div id="climate" class="page">
+    <header class="hero-header">
+      <img src="https://i.ibb.co/DPz5sVDS/73f436678910.jpg" class="bg-image" alt="Climate image">
+      <div class="overlay"></div>
+      <div class="header-content">
+        <h1>Climate Overview</h1>
+        <p>Explore how climate change is being monitored by NASA and other agencies.</p>
+      </div>
+    </header>
+    <div class="content">
+      <p>NASA uses advanced satellite systems and data analytics to track changes in Earth's climate. These efforts help us understand global warming, rising sea levels, and extreme weather events.</p>
+
+      <div class="read-more">
+        <a href="pop.html">Read More</a>
+      </div>
+    </div>
+  </div>
+
+
  
 <!-- ফুটার -->
     <footer>
