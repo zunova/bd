@@ -103,6 +103,7 @@
       justify-content: center;
       text-align: left;
       color: #fff;
+      background-color: #000;
     }
 
     .bg-image {
