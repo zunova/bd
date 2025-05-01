@@ -352,7 +352,7 @@
     <footer>
       <div><img src="https://i.postimg.cc/28KZMNyW/20250424-223807.png" alt="ZUNOVA Logo" style="height: 50px;"></div>
       <h1>ZUNOVA</h1>
-      <p></>ZUNOVA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.</p>
+      <p>ZUNOVA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.</p>
     
       <br><br><p> <br>All Pages</p>
       <div class="footer-links">
