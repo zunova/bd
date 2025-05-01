@@ -361,23 +361,6 @@
       </div>
     </div>
 
-   <!-- দ্বিতীয় পোস্টের পেজ -->
-    <div id="pip" class="page">
-      <header class="hero-header">
-        <img src="https://i.ibb.co/DPz5sVDS/73f436678910.jpg" class="bg-image">
-        <div class="overlay"></div>
-        <div class="header-content">
-          <h1>Climat</h1>
-          <p>Learn how NASA is monitoring Earth's changing climate through data and technology.</p>
-        </div>
-      </header>
-      <div style="padding: 20px; max-width: 800px; margin: auto;">
-        <p>NASA tracks rising temperatures, ice melt, and extreme weather using a network of satellites and ground-based systems.</p>
-        <p>Their data helps communities plan for climate impacts and raise global awareness about environmental responsibility.</p>
-      </div>
-    </div>
-
-
 <!-- ফুটার -->
     <footer>
       <div><img src="https://i.postimg.cc/28KZMNyW/20250424-223807.png" alt="X-TOVA Logo" style="height: 50px;"></div>
