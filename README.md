@@ -267,9 +267,9 @@
     <a href="https://zunova.github.io/bd/">Home</a>
     <a href="https://zunova.github.io/News-Events/" onclick="showPage('news')">News & Events</a>
     <a href="https://zunova.github.io/Missions/">Missions</a>
-    <a href="https://zunova.github.io/Solar-System/" onclick="showPage('solar-system')">Solar System</a>
+    <a href="https://zunova.github.io/Solar-System/">Solar System</a>
     <a href="https://zunova.github.io/Earth/">Earth</a>
-     <a href="https://zunova.github.io/bd/">The Universe</a>
+     <a href="https://zunova.github.io/Universe/">The Universe</a>
     <a href="https://zunova.github.io/Technology/">Technology</a>
     <a href="https://zunova.github.io/About/">About X-TOVA</a>
     </div>
