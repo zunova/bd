@@ -9,8 +9,8 @@
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body, html {
       /*font-family: 'Noto Serif Bengali', serif;*/
-      background-color: #fff;
-      color: #000;
+      background-color: #000;
+      color: #fff;
     }
 
     /* টপবার স্টাইল */
