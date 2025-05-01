@@ -315,7 +315,7 @@
 
       <!-- পোস্ট ২ -->
       <section class="climate-post">
-        <a href="#" class="climate-link" onclick="showPage('pop')">
+        <a href="pop.html" class="climate-link" onclick="showPage('pop')">
           <img src="https://i.ibb.co/DPz5sVDS/73f436678910.jpg" class="climate-bg">
           <div class="climate-overlay"></div>
           <div class="climate-text">
