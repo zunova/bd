@@ -265,13 +265,13 @@
   <div class="sidebar" id="sidebar">
     <!-- সাইডবারের লিংকসমূহ -->
     <a href="https://zunova.github.io/bd/">Home</a>
-    <a href="https://zunova.github.io/bd/" onclick="showPage('news')">News & Events</a>
-    <a href="https://zunova.github.io/bd/">Missions</a>
-    <a href="https://zunova.github.io/bd/" onclick="showPage('solar-system')">Solar System</a>
-    <a href="https://zunova.github.io/bd/">Earth</a>
+    <a href="https://zunova.github.io/News-Events/" onclick="showPage('news')">News & Events</a>
+    <a href="https://zunova.github.io/Missions/">Missions</a>
+    <a href="https://zunova.github.io/Solar-System/" onclick="showPage('solar-system')">Solar System</a>
+    <a href="https://zunova.github.io/Earth/">Earth</a>
      <a href="https://zunova.github.io/bd/">The Universe</a>
-    <a href="https://zunova.github.io/bd/">Technology</a>
-    <a href="https://zunova.github.io/bd/">About X-TOVA</a>
+    <a href="https://zunova.github.io/Technology/">Technology</a>
+    <a href="https://zunova.github.io/About/">About X-TOVA</a>
     </div>
 
   <!-- ওভারলে ব্যাকড্রপ -->
@@ -339,15 +339,15 @@
           <h2><a href="https://zunova.github.io/bd/" onclick="showPage('home')">Home</a></h2>
           <h2><a
 
-href="https://zunova.github.io/news/events/" onclick="showPage('news')">News & Events</a></h2>
-          <h2><a href="https://zunova.github.io/missions/" onclick="showPage('missions')">Missions</a></h2>
- <h2><a href="https://zunova.github.io/solarsystem/" onclick="showPage('solar-system')">Solar System</a></h2>
+href="https://zunova.github.io/News-Events/" onclick="showPage('news')">News & Events</a></h2>
+          <h2><a href="https://zunova.github.io/Missions/" onclick="showPage('missions')">Missions</a></h2>
+ <h2><a href="https://zunova.github.io/Solar-System/" onclick="showPage('solar-system')">Solar System</a></h2>
         </div>
         <div>
- <h2><a href="https://zunova.github.io/earth/" onclick="showPage('earth')">Earth</a></h2>
-          <h2><a href="https://zunova.github.io/universe/" onclick="showPage('universe')">The Universe</a></h2>
-          <h2><a href="https://zunova.github.io/technology/" onclick="showPage('technology')">Technology</a></h2>
-          <h2><a href="https://zunova.github.io/about/" onclick="showPage('about')">About</a></h2>
+ <h2><a href="https://zunova.github.io/Earth/" onclick="showPage('earth')">Earth</a></h2>
+          <h2><a href="https://zunova.github.io/Universe/" onclick="showPage('universe')">The Universe</a></h2>
+          <h2><a href="https://zunova.github.io/Technology/" onclick="showPage('technology')">Technology</a></h2>
+          <h2><a href="https://zunova.github.io/About/" onclick="showPage('about')">About</a></h2>
         </div>
       </div>
 
