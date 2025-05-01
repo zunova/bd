@@ -377,7 +377,7 @@
   <a href="https://youtube.com/@XTOVAofficial" target="_blank"><img src="https://i.ibb.co/mCrxw2YM/b21e91fe0afb.png" alt="YouTube"></a>
 </div>
 <br><br><br>
-<a href="#">© X-TOVA</a>
+<a>© X-TOVA</a>
 </footer>
 </div>
 
