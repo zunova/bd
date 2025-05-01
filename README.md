@@ -1,7 +1,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>ZUNOVA</title>
+  <title>X-TOVA</title>
   <!--  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Bengali&display=swap" rel="stylesheet">-->
   <!-- CSS স্টাইল শুরু -->
   <style>
@@ -9,15 +9,15 @@
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body, html {
       /*font-family: 'Noto Serif Bengali', serif;*/
-      background-color: #000 ;
-      color: #fff ;
+      background-color: #fff;
+      color: #000;
     }
 
     /* টপবার স্টাইল */
     .topbar {
       display: flex;
       align-items: center;
-      padding: 20px;
+      padding: 15px;
       position: fixed;
       top: 0;
       left: 0;
@@ -86,7 +86,7 @@
     
   
   /* মূল কন্টেন্ট */
-    .content {padding-top: 0px;}
+    .content { padding-top: 70px; }
 
     /* প্রতিটি পেজ */
     .page { display: none; }
@@ -139,7 +139,7 @@
     /* ক্লাইমেট পোস্ট */
     .climate-post {
       position: relative;
-      width: 95%;
+      width: 90%;
       aspect-ratio: 1.4 / 1;
       overflow: hidden;
       margin: 40px 20px;
@@ -192,7 +192,7 @@
       text-align: center;
     }
 
-    footer a { color: #ccc; text-decoration: none; }
+    footer a { color: #ccc; text-decoration: underline; }
     footer a:hover { text-decoration: 0; }
 
     .footer-links {
@@ -257,7 +257,7 @@
     </div>
     <!-- লোগো -->
     <div class="logo">
-      <img  src="https://i.postimg.cc/28KZMNyW/20250424-223807.png" alt="ZUNOVA Logo" >
+      <img  src="https://i.postimg.cc/28KZMNyW/20250424-223807.png" alt="X-TOVA Logo" >
     </div>
   </div>
 
@@ -271,7 +271,7 @@
     <a href="#" onclick="showPage('earth')">Earth</a>-->
      <a href="#" onclick="showPage('universe')">The Universe</a>
     <!--<a href="#" onclick="showPage('technology')">Technology</a>-->
-    <a href="#" onclick="showPage('about')">About ZUNOVA</a>
+    <a href="#" onclick="showPage('about')">About X-TOVA</a>
    <!-- <a href="#" onclick="showPage('about')">About</a> -->
   </div>
 
@@ -290,13 +290,13 @@
         <img src="https://media-hosting.imagekit.io/7a2e66f9938d438d/1000009881.jpg?Expires=1840348330&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=kMQX9TyNxcFviLRN1rs2N5-I91xg84CRR-Qlw4~LpEG1fVbRk390soriNq3pryLyZG5WsODtXQdtysRQI7ya0N697J2ccYfcwerWAyxMP3epf9ua94oX8R0vEbryU56C~GHw6w3TJKShmdiOu3AynbDf8ambW-yvrY2orQMrD0A6piIZcsp7GEdmW3XwvUG1qrRa3~yG-rI7CxSvsWbd93xS1~Qg-YKZj2AFmrgA9T5pMrSoyGyhhk1oI2OozmDE8z~TH2t4C5NUIR8dPv1gkaUkyB5TJl5sa71LrAVypSXtaAqhgxJHiA52v2zyVbnU6Vww1lICpzU~pOfadiSIyA__" class="bg-image">
         <div class="overlay"></div>
         <div class="header-content">
-          <h1>ZUNOVA</h1>
-          <p>ZUNOVA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.</p>
+          <h1>X-TOVA</h1>
+          <p></>X-TOVA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.</p>
        </div>
       </header>
 
       <!-- নিউজ অংশ -->
-      <h1>News & Events</h1>
+      <h1><br><br><br>News & Events</h1>
       <p>Stay updated with X-TOVA's latest news and events.</p>
 
       <!--<p>&nbsp;</p><div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" height="274" src="https://www.youtube.com/embed/zT3l1lT-_Wk" width="351" youtube-src-id="zT3l1lT-_Wk"></iframe></div><br /><p></p>-->
@@ -375,152 +375,26 @@
         <p>NASA tracks rising temperatures, ice melt, and extreme weather using a network of satellites and ground-based systems.</p>
         <p>Their data helps communities plan for climate impacts and raise global awareness about environmental responsibility.</p>
       </div>
-    </div> 
-    
-    
-    
-    
-    <!-- New & Events page    -->
-    <div id="news" class="page">
-      <!-- হিরো ব্যানার -->
-      <header class="hero-header">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Jupiter.jpg" class="bg-image">
-        <div class="overlay"></div>
-        <div class="header-content">
-          <h1>New & Events</h1>
-          <p>Jupiter is the fifth planet from the Sun, and the largest in the solar system – more than twice as massive as the other planets combined.</p>
-        </div>
-      </header>
-
-      <!-- নিউজ অংশ -->
-      <h1>News & Events</h1>
-      <p>Stay updated with X-TOVA's latest news and events.</p>
     </div>
-    
-    
-    <!-- Missions  Page  -->
-    <div id="missions" class="page">
-      <!-- হিরো ব্যানার -->
-      <header class="hero-header">
-        <img src="https://i.ibb.co/TDGt0jbv/0436d75d6007.jpg" class="bg-image">
-        <div class="overlay"></div>
-        <div class="header-content">
-          <h1>Missions</h1>
-          <p>Jupiter is the fifth planet from the Sun, and the largest in the solar system – more than twice as massive as the other planets combined.</p>
-        </div>
-      </header>
 
-      <!-- নিউজ অংশ -->
-      <h1>News & Events</h1>
-      <p>Stay updated with ZUNOVA's latest news and events.</p>
-    </div>
-  
-    <!-- solarsystem page    -->
-    <div id="solar-system" class="page">
-      <!-- হিরো ব্যানার -->
-      <header class="hero-header">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Jupiter.jpg" class="bg-image">
-        <div class="overlay"></div>
-        <div class="header-content">
-          <h1>Solar System</h1>
-          <p>Jupiter is the fifth planet from the Sun, and the largest in the solar system – more than twice as massive as the other planets combined.</p>
-          
-          
-        </div>
-      </header>
 
-      <!-- নিউজ অংশ -->
-      <h1>News & Events</h1>
-      <p>Stay updated with ZUNOVA's latest news and events.</p>
-      
-      
-    </div>
+<!-- ফুটার -->
+    <footer>
+      <div><img src="https://i.postimg.cc/28KZMNyW/20250424-223807.png" alt="X-TOVA Logo" style="height: 50px;"></div>
+      <h1>X-TOVA</h1>
+      <p></>X-TOVA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.</p>
     
-    <!--  Earth page    -->
-    <div id="earth" class="page">
-      <!-- হিরো ব্যানার -->
-      <header class="hero-header" style="aspect-ratio: auto; height: 100vh;" >
-        <img src="https://media-hosting.imagekit.io/7a2e66f9938d438d/1000009881.jpg?Expires=1840348330&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=kMQX9TyNxcFviLRN1rs2N5-I91xg84CRR-Qlw4~LpEG1fVbRk390soriNq3pryLyZG5WsODtXQdtysRQI7ya0N697J2ccYfcwerWAyxMP3epf9ua94oX8R0vEbryU56C~GHw6w3TJKShmdiOu3AynbDf8ambW-yvrY2orQMrD0A6piIZcsp7GEdmW3XwvUG1qrRa3~yG-rI7CxSvsWbd93xS1~Qg-YKZj2AFmrgA9T5pMrSoyGyhhk1oI2OozmDE8z~TH2t4C5NUIR8dPv1gkaUkyB5TJl5sa71LrAVypSXtaAqhgxJHiA52v2zyVbnU6Vww1lICpzU~pOfadiSIyA__" class="bg-image">
-        <div class="overlay"></div>
-        <div class="header-content">
-          <h1>New & Events</h1>
-          <p>Jupiter is the fifth planet from the Sun, and the largest in the solar system – more than twice as massive as the other planets combined.</p>
-        </div>
-      </header>
-
-      <!-- নিউজ অংশ -->
-      <h1>News & Events</h1>
-      <p>Stay updated with X-TOVA's latest news and events.</p>
-    </div>
-    
-       <!-- The Universe    -->
-    <div id="universe" class="page">
-      <!-- হিরো ব্যানার -->
-      <header class="hero-header">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Jupiter.jpg" class="bg-image">
-        <div class="overlay"></div>
-        <div class="header-content">
-          <h1>New & Events</h1>
-          <p>Jupiter is the fifth planet from the Sun, and the largest in the solar system – more than twice as massive as the other planets combined.</p>
-        </div>
-      </header>
-
-      <!-- নিউজ অংশ -->
-      <h1>News & Events</h1>
-      <p>Stay updated with ZUNOVA's latest news and events.</p>
-    </div>
-    
-    <!-- New & Events page    -->
-    <div id="technology" class="page">
-      <!-- হিরো ব্যানার -->
-      <header class="hero-header">
-        <img src="https://media-hosting.imagekit.io/a2fdebb36ca44d0d/1000009967.jpg?Expires=1840494796&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=TFTBd~NgxhY3PVm5hB5lhfrqjgaUcje3JR30y3sf3Axin4dMaUh0KIS01zJIC5AaVrpMA01CVh1RqQ5pGGnqQvy5ozt2vQtT9TRatMuxCduLzr4T2BSlXtyzhV2oWJY~24JyklnmjlBS2wUNCBYGGWSY7s7~PdzVxn~qyX6rQbdj6nD8benJIthzklyM2O3nPWPXOTCLhAd-g2r-KCi9m4EW6vymPJtuFv2gBoCeyg-Y-BhOfe6PcOunoyWBiyF~tFfswXgkiiXup7RBMeXyq9P6D~7uu8UiZysCMUwC7t-yKByFmT7VM3b941y7hOiQx1ztFh0-naMq9FsoeRmBtA__" class="bg-image">
-        <div class="overlay"></div>
-        <div class="header-content">
-          <h1>Technology</h1>
-          <p>Jupiter is the fifth planet from the Sun, and the largest in the solar system – more than twice as massive as the other planets combined.</p>
-        </div>
-      </header>
-
-      <!-- নিউজ অংশ -->
-      <h1>News & Events</h1>
-      <p>Stay updated with ZUNOVA's latest news and events.</p>
-    </div>
-    
-    <!-- New & Events page    -->
-    <div id="about" class="page">
-      <!-- হিরো ব্যানার -->
-      <header class="hero-header">
-        <img src="" class="bg-image">
-        <div class="overlay"></div>
-        <div class="header-content">
-          <h1>About X-TOVA</h1>
-          <p>ZUNOVA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.</p>
-        </div>
-      </header>
-
-      <!-- নিউজ অংশ -->
-     
-      <p>Exploration is in our neature. We are never going to to stop exploring the unknown. We are not going to stop innovating for the benefit of humanity, and inspiring the world through
-discovary.</p>
-    </div>
-    
-    <!-- ফুটার -->
-    <div><img src="https://i.postimg.cc/28KZMNyW/20250424-223807.png" alt="ZUNOVA Logo" style="height: 50px;"></div>
-      <h1>ZUNOVA</h1>
-      <p>ZUNOVA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.<br><br><br></p>
-    
-     <p>All Pages</p>
+      <br><br><p> <br>All Pages</p>
       <div class="footer-links">
         <div>
-          <h2><a href="#" onclick="showPage('home')">Home</a></h2>
-          <h2><a href="#" onclick="showPage('news')">News & Events</a></h2>
-          <h2><a href="#" onclick="showPage('missions')">Missions</a></h2>
+          <h3><a href="#" onclick="showPage('home')">Home</a></h3>
+          <h3><a href="#" onclick="showPage('news')">News & Events</a></h3>
+          <h3><a href="#" onclick="showPage('missions')">Missions</a></h3>
         </div>
         <div>
-          <h2><a href="#" onclick="showPage('universe')">The Universe</a></h2>
-          <h2><a href="#" onclick="showPage('technology')">Technology</a></h2>
-          <h2><a href="#" onclick="showPage('about')">About</a></h2>
+          <h3><a href="#" onclick="showPage('universe')">The Universe</a></h3>
+          <h3><a href="#" onclick="showPage('technology')">Technology</a></h3>
+          <h3><a href="#" onclick="showPage('about')">About</a></h3>
         </div>
       </div>
 
@@ -535,9 +409,12 @@ discovary.</p>
   <a href="https://youtube.com/@XTOVAofficial" target="_blank"><img src="https://i.ibb.co/mCrxw2YM/b21e91fe0afb.png" alt="YouTube"></a>
 </div>
 <br><br><br>
-<a href="#">© X-TOVA</a>
+<a href="#"">© X-TOVA</a>
 </footer>
 </div>
+
+    </footer>
+  </div>
 
   <!-- জাভাস্ক্রিপ্ট শুরু -->
   <script>
