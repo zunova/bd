@@ -341,10 +341,10 @@
 
 href="https://zunova.github.io/news/events/" onclick="showPage('news')">News & Events</a></h2>
           <h2><a href="https://zunova.github.io/missions/" onclick="showPage('missions')">Missions</a></h2>
- <h2><a href="https://zunova.github.io/solarsystem/" onclick="showPage('missions')">Missions</a></h2>
+ <h2><a href="https://zunova.github.io/solarsystem/" onclick="showPage('solar-system')">Solar System</a></h2>
         </div>
         <div>
- <h2><a href="https://zunova.github.io/earth/" onclick="showPage('missions')">Earth</a></h2>
+ <h2><a href="https://zunova.github.io/earth/" onclick="showPage('earth')">Earth</a></h2>
           <h2><a href="https://zunova.github.io/universe/" onclick="showPage('universe')">The Universe</a></h2>
           <h2><a href="https://zunova.github.io/technology/" onclick="showPage('technology')">Technology</a></h2>
           <h2><a href="https://zunova.github.io/about/" onclick="showPage('about')">About</a></h2>
