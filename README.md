@@ -258,7 +258,7 @@
     </div>
     <!-- লোগো -->
     <div class="logo">
-      <img  src="https://i.postimg.cc/28KZMNyW/20250424-223807.png" alt="X-TOVA Logo" >
+      <img  src="https://i.postimg.cc/28KZMNyW/20250424-223807.png" alt="ZUNOVA Logo" >
     </div>
   </div>
 
@@ -272,7 +272,7 @@
     <a href="#" onclick="showPage('earth')">Earth</a>-->
      <a href="#" onclick="showPage('universe')">The Universe</a>
     <!--<a href="#" onclick="showPage('technology')">Technology</a>-->
-    <a href="#" onclick="showPage('about')">About X-TOVA</a>
+    <a href="#" onclick="showPage('about')">About ZUNOVA</a>
    <!-- <a href="#" onclick="showPage('about')">About</a> -->
   </div>
 
@@ -350,14 +350,14 @@
  
 <!-- ফুটার -->
     <footer>
-      <div><img src="https://i.postimg.cc/28KZMNyW/20250424-223807.png" alt="X-TOVA Logo" style="height: 50px;"></div>
-      <h1>X-TOVA</h1>
-      <p></>X-TOVA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.</p>
+      <div><img src="https://i.postimg.cc/28KZMNyW/20250424-223807.png" alt="ZUNOVA Logo" style="height: 50px;"></div>
+      <h1>ZUNOVA</h1>
+      <p></>ZUNOVA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.</p>
     
       <br><br><p> <br>All Pages</p>
       <div class="footer-links">
         <div>
-          <h2><a href="#" onclick="showPage('home')">Home</a></h2>
+          <h2><a href="https://zunova.github.io/bd/" onclick="showPage('home')">Home</a></h2>
           <h2><a href="#" onclick="showPage('news')">News & Events</a></h2>
           <h2><a href="#" onclick="showPage('missions')">Missions</a></h2>
         </div>
@@ -373,13 +373,13 @@
     
       <!-- সোশ্যাল আইকন -->
     <div class="social-icons">
-  <a href="https://facebook.com/@XTOVAofficial" target="_blank"><img src="https://i.ibb.co/0Rn3cY0N/8fedea3b4ab9.png" alt="Facebook"></a>
-  <a href="https://instagram.com/xtovaofficial" target="_blank"><img src="https://i.ibb.co/fzDwQZ0F/54a6d7f094cb.png" alt="Instagram"></a>
-  <a href="https://x.com/XTOVAofficial" target="_blank"><img src="https://i.ibb.co/1fG6k8Ww/93ada2da4eee.png" alt="X"></a>
-  <a href="https://youtube.com/@XTOVAofficial" target="_blank"><img src="https://i.ibb.co/mCrxw2YM/b21e91fe0afb.png" alt="YouTube"></a>
+  <a href="https://facebook.com/@ZUNOVAofficial" target="_blank"><img src="https://i.ibb.co/0Rn3cY0N/8fedea3b4ab9.png" alt="Facebook"></a>
+  <a href="https://instagram.com/ZUNOVAofficial" target="_blank"><img src="https://i.ibb.co/fzDwQZ0F/54a6d7f094cb.png" alt="Instagram"></a>
+  <a href="https://x.com/ZUNOVAofficial" target="_blank"><img src="https://i.ibb.co/1fG6k8Ww/93ada2da4eee.png" alt="X"></a>
+  <a href="https://youtube.com/@ZUNOVAofficial" target="_blank"><img src="https://i.ibb.co/mCrxw2YM/b21e91fe0afb.png" alt="YouTube"></a>
 </div>
 <br><br><br>
-<a>© X-TOVA</a>
+<a>© ZUNOVA</a>
 </footer>
 </div>
 
