@@ -193,7 +193,7 @@
       text-align: center;
     }
 
-    footer a { color: #ccc; text-decoration: underline; }
+    footer a { color: #ccc; text-decoration: none; }
     footer a:hover { text-decoration: 0; }
 
     .footer-links {
@@ -357,14 +357,14 @@
       <br><br><p> <br>All Pages</p>
       <div class="footer-links">
         <div>
-          <h3><a href="#" onclick="showPage('home')">Home</a></h3>
-          <h3><a href="#" onclick="showPage('news')">News & Events</a></h3>
-          <h3><a href="#" onclick="showPage('missions')">Missions</a></h3>
+          <h2><a href="#" onclick="showPage('home')">Home</a></h2>
+          <h2><a href="#" onclick="showPage('news')">News & Events</a></h2>
+          <h2><a href="#" onclick="showPage('missions')">Missions</a></h2>
         </div>
         <div>
-          <h3><a href="#" onclick="showPage('universe')">The Universe</a></h3>
-          <h3><a href="#" onclick="showPage('technology')">Technology</a></h3>
-          <h3><a href="#" onclick="showPage('about')">About</a></h3>
+          <h2><a href="#" onclick="showPage('universe')">The Universe</a></h2>
+          <h2><a href="#" onclick="showPage('technology')">Technology</a></h2>
+          <h2><a href="#" onclick="showPage('about')">About</a></h2>
         </div>
       </div>
 
