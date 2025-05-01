@@ -256,10 +256,10 @@
       <span></span><span></span><span></span>
     </div>
     <!-- লোগো -->
-   <!-- <div class="logo">
+    <div class="logo">
       <img  src="https://i.postimg.cc/28KZMNyW/20250424-223807.png" alt="ZUNOVA Logo" >
     </div>
-  </div>-->
+  </div>
 
   <!-- সাইডবার -->
   <div class="sidebar" id="sidebar">
@@ -506,7 +506,7 @@ discovary.</p>
     </div>
     
     <!-- ফুটার -->
-    <!--<div><img src="https://i.postimg.cc/28KZMNyW/20250424-223807.png" alt="ZUNOVA Logo" style="height: 50px;"></div>-->
+    <div><img src="https://i.postimg.cc/28KZMNyW/20250424-223807.png" alt="ZUNOVA Logo" style="height: 50px;"></div>
       <h1>ZUNOVA</h1>
       <p>ZUNOVA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.<br><br><br></p>
     
