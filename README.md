@@ -283,7 +283,7 @@
         <div class="overlay"></div>
         <div class="header-content">
           <h1>X-TOVA</h1>
-          <p></>X-TOVA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.</p>
+          <p>X-TOVA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.</p>
        </div>
       </header>
 
