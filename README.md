@@ -365,32 +365,48 @@ href="https://zunova.github.io/News-Events/" onclick="showPage('news')">News & E
 </footer>
 </div>
   <!-- জাভাস্ক্রিপ্ট শুরু -->
-  <script>
-    // হ্যামবার্গার ক্লিক করলে সাইডবার খুলবে/বন্ধ হবে
-    const hamburger = document.getElementById('hamburger');
-    const sidebar = document.getElementById('sidebar');
-    const overlay = document.getElementById('overlay');
-
-    hamburger.addEventListener('click', () => {
-      sidebar.classList.toggle('open');
-      hamburger.classList.toggle('open');
-      overlay.style.display = sidebar.classList.contains('open') ? 'block' : 'none';
+<script>
+  // ফাংশন: নির্দিষ্ট পেজ দেখানো
+  function showPage(pageId) {
+    const pages = document.querySelectorAll('.page');
+    pages.forEach(page => {
+      page.classList.remove('active');
     });
 
-    overlay.addEventListener('click', () => {
-      sidebar.classList.remove('open');
-      hamburger.classList.remove('open');
-      overlay.style.display = 'none';
-    });
-
-    // পেজ দেখানোর ফাংশন
-    function showPage(pageId) {
-      document.querySelectorAll('.page').forEach(page => page.classList.remove('active'));
-      document.getElementById(pageId).classList.add('active');
-      sidebar.classList.remove('open');
-      hamburger.classList.remove('open');
-      overlay.style.display = 'none';
+    const targetPage = document.getElementById(pageId);
+    if (targetPage) {
+      targetPage.classList.add('active');
+      // URL আপডেট করে যাতে ব্রাউজারে ব্যাক বাটন কাজ করে
+      history.pushState({ page: pageId }, '', `/${pageId}`);
     }
-  </script>
+  }
+
+  // ব্যাক/ফরওয়ার্ড বাটনে ক্লিক হলে পেজ শো
+  window.addEventListener('popstate', (event) => {
+    const pageId = event.state?.page || 'home';
+    showPage(pageId);
+  });
+
+  // পেজ প্রথমবার লোড হলে হোম পেজ দেখানো
+  document.addEventListener('DOMContentLoaded', () => {
+    let path = window.location.pathname;
+
+    // path থেকে পেজ আইডি বের করা
+    let pageId = 'home';
+    if (path.includes('News-Events')) {
+      pageId = 'news';
+    } else if (path.includes('Missions')) {
+      pageId = 'missions';
+    } // আপনি চাইলে আরও পেজ আইডি যোগ করতে পারেন
+
+    // সবার আগে সব .page হাইড করে তারপর টার্গেট পেজ দেখানো
+    document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+    const target = document.getElementById(pageId);
+    if (target) target.classList.add('active');
+
+    // শুরুতে স্টেট সেট করে রাখা
+    history.replaceState({ page: pageId }, '', path);
+  });
+</script>
   <!-- জাভাস্ক্রিপ্ট শেষ -->
 </body>
