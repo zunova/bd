@@ -1,4 +1,10 @@
-<style>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>X-TOVA</title>
+  <!--  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Bengali&display=swap" rel="stylesheet">-->
+  <!-- CSS স্টাইল শুরু -->
+  <style>
     /* সাধারণ রিসেট */
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body, html {
@@ -239,6 +245,7 @@
   
   </style>
   <!-- CSS স্টাইল শেষ -->
+</head>
 
 <body>
 
@@ -250,7 +257,7 @@
     </div>
     <!-- লোগো -->
     <div class="logo">
-      <img  src="https://i.postimg.cc/28KZMNyW/20250424-223807.png" alt="X-TOVA Logo" >
+      <img  src="https://i.ibb.co.com/k6y15d01/20250502-113509.jpg" alt="X-TOVA Logo" >
     </div>
   </div>
 
@@ -283,7 +290,7 @@
         <div class="overlay"></div>
         <div class="header-content">
           <h1>X-TOVA</h1>
-          <p>X-TOVA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.</p>
+          <p></>X-TOVA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.</p>
        </div>
       </header>
 
@@ -322,7 +329,7 @@
 
 <!-- ফুটার -->
     <footer>
-      <div><img src="https://i.postimg.cc/28KZMNyW/20250424-223807.png" alt="ZUNOVA Logo" style="height: 50px;"></div>
+      <div><img src="https://i.ibb.co.com/k6y15d01/20250502-113509.jpg" alt="ZUNOVA Logo" style="height: 50px;"></div>
       <h1>ZUNOVA</h1>
       <p>ZUNOVA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.</p>
     
