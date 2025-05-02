@@ -366,31 +366,22 @@ href="https://zunova.github.io/News-Events/" onclick="showPage('news')">News & E
 </div>
   <!-- জাভাস্ক্রিপ্ট শুরু -->
 <script>
-    // হ্যামবার্গার ক্লিক করলে সাইডবার খুলবে/বন্ধ হবে
-    const hamburger = document.getElementById('hamburger');
-    const sidebar = document.getElementById('sidebar');
-    const overlay = document.getElementById('overlay');
+  // হ্যামবার্গার ক্লিক করলে সাইডবার খুলবে/বন্ধ হবে
+  const hamburger = document.getElementById('hamburger');
+  const sidebar = document.getElementById('sidebar');
+  const overlay = document.getElementById('overlay');
 
-    hamburger.addEventListener('click', () => {
-      sidebar.classList.toggle('open');
-      hamburger.classList.toggle('open');
-      overlay.style.display = sidebar.classList.contains('open') ? 'block' : 'none';
-    });
+  hamburger.addEventListener('click', () => {
+    sidebar.classList.toggle('open');
+    hamburger.classList.toggle('open');
+    overlay.style.display = sidebar.classList.contains('open') ? 'block' : 'none';
+  });
 
-    overlay.addEventListener('click', () => {
-      sidebar.classList.remove('open');
-      hamburger.classList.remove('open');
-      overlay.style.display = 'none';
-    });
-
-    // পেজ দেখানোর ফাংশন
-    function showPage(pageId) {
-      document.querySelectorAll('.page').forEach(page => page.classList.remove('active'));
-      document.getElementById(pageId).classList.add('active');
-      sidebar.classList.remove('open');
-      hamburger.classList.remove('open');
-      overlay.style.display = 'none';
-    }
-  </script>
+  overlay.addEventListener('click', () => {
+    sidebar.classList.remove('open');
+    hamburger.classList.remove('open');
+    overlay.style.display = 'none';
+  });
+</script>
   <!-- জাভাস্ক্রিপ্ট শেষ -->
 </body>
