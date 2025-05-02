@@ -1,10 +1,4 @@
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>X-TOVA</title>
-  <!--  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Bengali&display=swap" rel="stylesheet">-->
-  <!-- CSS স্টাইল শুরু -->
-  <style>
+<style>
     /* সাধারণ রিসেট */
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body, html {
@@ -245,7 +239,6 @@
   
   </style>
   <!-- CSS স্টাইল শেষ -->
-</head>
 
 <body>
 
