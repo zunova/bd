@@ -3,7 +3,7 @@
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body, html {
       /*font-family: 'Noto Serif Bengali', serif;*/
-      background-color: #fff;
+      background-color: #000;
       color: #fff;
     }
 
@@ -99,7 +99,7 @@
 
     .bg-image {
       position: absolute;
-      top: -40%;
+      top: 0;
       left: 0;
       height: 100%;
       width: 100%;
