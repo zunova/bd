@@ -1,7 +1,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>X-TOVA</title>
+  <title>ZUNOVA</title>
   <!--  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Bengali&display=swap" rel="stylesheet">-->
   <!-- CSS স্টাইল শুরু -->
   <style>
@@ -257,7 +257,7 @@
     </div>
     <!-- লোগো -->
     <div class="logo">
-      <img  src="https://i.ibb.co.com/k6y15d01/20250502-113509.jpg" alt="X-TOVA Logo" >
+      <img  src="https://i.ibb.co.com/GfrKS2JD/20250502-114339.jpg" alt="ZUNOVA Logo" >
     </div>
   </div>
 
@@ -289,14 +289,14 @@
         <img src="https://media-hosting.imagekit.io/7a2e66f9938d438d/1000009881.jpg?Expires=1840348330&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=kMQX9TyNxcFviLRN1rs2N5-I91xg84CRR-Qlw4~LpEG1fVbRk390soriNq3pryLyZG5WsODtXQdtysRQI7ya0N697J2ccYfcwerWAyxMP3epf9ua94oX8R0vEbryU56C~GHw6w3TJKShmdiOu3AynbDf8ambW-yvrY2orQMrD0A6piIZcsp7GEdmW3XwvUG1qrRa3~yG-rI7CxSvsWbd93xS1~Qg-YKZj2AFmrgA9T5pMrSoyGyhhk1oI2OozmDE8z~TH2t4C5NUIR8dPv1gkaUkyB5TJl5sa71LrAVypSXtaAqhgxJHiA52v2zyVbnU6Vww1lICpzU~pOfadiSIyA__" class="bg-image">
         <div class="overlay"></div>
         <div class="header-content">
-          <h1>X-TOVA</h1>
-          <p></>X-TOVA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.</p>
+          <h1>ZUNOVA</h1>
+          <p></>ZUNOVA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.</p>
        </div>
       </header>
 
       <!-- নিউজ অংশ -->
       <h1>News & Events</h1>
-      <p>Stay updated with X-TOVA's latest news and events.</p>
+      <p>Stay updated with ZUNOVA's latest news and events.</p>
 
       <!--<p>&nbsp;</p><div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" height="274" src="https://www.youtube.com/embed/zT3l1lT-_Wk" width="351" youtube-src-id="zT3l1lT-_Wk"></iframe></div><br /><p></p>-->
       
@@ -331,7 +331,7 @@
     <footer>
       <div><img src="https://i.ibb.co.com/k6y15d01/20250502-113509.jpg" alt="ZUNOVA Logo" style="height: 50px;"></div>
       <h1>ZUNOVA</h1>
-      <p>ZUNOVA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.</p>
+      <p>Exploration is in our nature. We will never stop exploring the unknown, innovating for the benefit of humanity, and inspiring the world through discovery.</p>
     
       <br><br><p> <br>All Pages</p>
       <div class="footer-links">
