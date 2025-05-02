@@ -290,7 +290,7 @@
         <div class="overlay"></div>
         <div class="header-content">
           <h1>ZUNOVA</h1>
-          <p></>ZUNOVA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.</p>
+          <p>ZUNOVA explores the unknown, innovates for the benefit of humanity, and inspires the world through discovery.</p>
        </div>
       </header>
 
