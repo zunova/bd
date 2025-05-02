@@ -99,7 +99,7 @@
 
     .bg-image {
       position: absolute;
-      top: 0;
+      top: 10;
       left: 0;
       height: 100%;
       width: 100%;
