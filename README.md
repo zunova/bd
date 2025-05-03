@@ -285,7 +285,7 @@
     <!-- হোম পেজ -->
     <div id="home" class="page active">
       <!-- হিরো ব্যানার -->
-      <header class="hero-header" style="aspect-ratio: auto; height: 100vh;">
+      <header class="hero-header" style="aspect-ratio: auto; height: 80vh;">
         <img src="https://media-hosting.imagekit.io/7a2e66f9938d438d/1000009881.jpg?Expires=1840348330&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=kMQX9TyNxcFviLRN1rs2N5-I91xg84CRR-Qlw4~LpEG1fVbRk390soriNq3pryLyZG5WsODtXQdtysRQI7ya0N697J2ccYfcwerWAyxMP3epf9ua94oX8R0vEbryU56C~GHw6w3TJKShmdiOu3AynbDf8ambW-yvrY2orQMrD0A6piIZcsp7GEdmW3XwvUG1qrRa3~yG-rI7CxSvsWbd93xS1~Qg-YKZj2AFmrgA9T5pMrSoyGyhhk1oI2OozmDE8z~TH2t4C5NUIR8dPv1gkaUkyB5TJl5sa71LrAVypSXtaAqhgxJHiA52v2zyVbnU6Vww1lICpzU~pOfadiSIyA__" class="bg-image">
         <div class="overlay"></div>
         <div class="header-content">
@@ -294,9 +294,9 @@
        </div>
       </header>
 
-      <!-- নিউজ অংশ -->
+      <!-- নিউজ অংশ 
       <h1>News & Events</h1>
-      <p>Stay updated with ZUNOVA's latest news and events.</p>
+      <p>Stay updated with ZUNOVA's latest news and events.</p>-->
 
       <!--<p>&nbsp;</p><div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" height="274" src="https://www.youtube.com/embed/zT3l1lT-_Wk" width="351" youtube-src-id="zT3l1lT-_Wk"></iframe></div><br /><p></p>-->
       
